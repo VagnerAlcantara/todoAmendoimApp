@@ -1,0 +1,9 @@
+Aula 1 - Definindo projeto
+	- Desenhou funcionalidades do projeto TODO App
+	
+Aula 2 - DB - Estrutura
+	- Criar tabelas para tarefa e categoria
+	- Criar relacionamento entre tabelas
+
+Aula 3 - DB - Insert, Read, Update e Delete (CRUD)
+	- Criar comandos e realizar operações do DB
