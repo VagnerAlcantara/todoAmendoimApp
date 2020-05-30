@@ -1,4 +1,4 @@
-# TodoAmendoimApp
+# TodoAmendoimApp :smiley_cat:
 
 Desenvolvimento de um projeto com funcionalidades básicas que visa passar por conceitos em desenvolvimento de uma aplicação com intuito de ensiná-los.
 
